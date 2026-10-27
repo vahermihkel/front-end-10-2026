@@ -1,0 +1,14 @@
+.tekst {
+  color: red;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.tekst:hover {
+  color: yellow;
+  cursor: pointer;
+}
+
+.tekst:active {
+  color: green;
+}
